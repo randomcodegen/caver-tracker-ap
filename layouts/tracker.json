@@ -113,11 +113,11 @@
                                 "content": [
                                     {
                                         "type": "map",
-                                        "maps": [ "labyrinthWest" ]
+                                        "maps": [ "labyrinthwest" ]
                                     },
                                     {
                                         "type": "map",
-                                        "maps": [ "labyrinthEast" ]
+                                        "maps": [ "labyrintheast" ]
                                     }
                                 ]
                             }

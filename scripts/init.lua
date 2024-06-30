@@ -11,3 +11,4 @@ end
 Tracker:AddLayouts("layouts/shared.json")
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
+ScriptHost:LoadScript("scripts/ap_auto.lua")

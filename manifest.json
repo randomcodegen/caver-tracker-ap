@@ -1,17 +1,18 @@
 ﻿{
-  "name": "Official CSR Item and Map Tracker",
+  "name": "CSR Item and Map Tracker",
   "game_name": "Cave Story Randomizer",
-  "game_variant": "v2.0",
   "platform": "PC",
-  "package_version": "2.0.0.1",
+  "package_version": "2.0.0.2",
   "package_uid": "cavestory_duncathan",
-  "author": "duncathan_salt",
+  "author": "duncathan_salt and rand(0)",
   "variants": {
     "standard": {
-      "display_name": "Map Tracker"
+      "display_name": "Map Tracker",
+	  "flags": ["ap"]
     },
     "items_only": {
-      "display_name": "Item Tracker"
+      "display_name": "Item Tracker",
+	  "flags": ["ap"]
     }
   }
 }

@@ -2,6 +2,7 @@
   {
     "name": "Hermit's Gun",
     "type": "progressive",
+	"codes": "HermitsGun",
     "stages": [
       {
         "img": "images/weapons/polarstar.png",
@@ -221,6 +222,7 @@
     "name": "Puppies",
     "type": "progressive",
     "allow_disabled": "false",
+	"codes": "puppy_prog",
     "stages": [
       {
         "img": "images/puppy0.png",
@@ -306,6 +308,7 @@
   {
     "name": "Booster",
     "type": "progressive",
+	"codes": "prog_booster",
     "stages": [
       {
         "img": "images/booster1.png",
